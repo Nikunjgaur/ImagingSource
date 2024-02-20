@@ -1,0 +1,10 @@
+D:\Add Inno\Projects\ImagingSource\ImagingSource\bin\Debug\ImagingSource.exe.config
+D:\Add Inno\Projects\ImagingSource\ImagingSource\bin\Debug\ImagingSource.exe
+D:\Add Inno\Projects\ImagingSource\ImagingSource\bin\Debug\ImagingSource.pdb
+D:\Add Inno\Projects\ImagingSource\ImagingSource\obj\Debug\ImagingSource.csproj.AssemblyReference.cache
+D:\Add Inno\Projects\ImagingSource\ImagingSource\obj\Debug\ImagingSource.csproj.SuggestedBindingRedirects.cache
+D:\Add Inno\Projects\ImagingSource\ImagingSource\obj\Debug\ImagingSource.Properties.Resources.resources
+D:\Add Inno\Projects\ImagingSource\ImagingSource\obj\Debug\ImagingSource.csproj.GenerateResource.cache
+D:\Add Inno\Projects\ImagingSource\ImagingSource\obj\Debug\ImagingSource.csproj.CoreCompileInputs.cache
+D:\Add Inno\Projects\ImagingSource\ImagingSource\obj\Debug\ImagingSource.exe
+D:\Add Inno\Projects\ImagingSource\ImagingSource\obj\Debug\ImagingSource.pdb
